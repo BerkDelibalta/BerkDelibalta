@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Berk from Turin,Italy
+# 👋 Hi, I’m Berk from Turin,Italy
 - 🏛 I’m interested in software and it's applications on different fields
 - 📈💻 I am programming mainly with Java 8
 - 📫🌍 How to reach me berkdelibalta@ieee.org
