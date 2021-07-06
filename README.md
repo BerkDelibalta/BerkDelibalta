@@ -5,7 +5,9 @@
 - 📫🌍 How to reach me berkdelibalta@ieee.org 
  or berkdelibalta@gmail.com on ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 - Connect with me on ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 - ⭐😊Please give me a star if you like the content I have prepared here,and please let me know if you have any suggestions or tips on improvements of the projects or just collaboration request by dropping me an email
+- New on ![image](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) to solve challenging problems
 - 🌐 Traveller
 <!---
 BerkDelibalta/BerkDelibalta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
