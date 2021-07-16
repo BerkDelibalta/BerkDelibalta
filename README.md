@@ -24,6 +24,9 @@ berkdelibalta@ieee.org
 # New here to solve challenging problems
 ![image](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) 
 # 🌐 Traveller
+
+# F1 enthusiast
+![image](https://upload.wikimedia.org/wikipedia/commons/3/33/F1.svg)
 <!---
 BerkDelibalta/BerkDelibalta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
