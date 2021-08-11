@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Berk!
-- 🏛👨‍💻 I’m interested in software and it's applications on different fields
-# 📈💻 The programming languages I am programming with
+- 🏛I’m interested in software and it's applications on different fields
+# 👨‍💻 The programming languages I am programming with
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
