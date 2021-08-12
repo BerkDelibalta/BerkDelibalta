@@ -17,8 +17,9 @@ berkdelibalta@ieee.org
 
 # How to Connect with me  
 [![name](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkdelibalta/)
-![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![image](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) 
+[![name](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BerkDelibalta/BerkDelibalta/)
+[![name](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/berkdelibalta)
+
 # Collaboration,reviews and suggestions
 Please let me know if you have any suggestions or tips on improvements of the projects or just collaboration request by dropping me an email
 # New here to solve challenging problems
