@@ -22,8 +22,6 @@ berkdelibalta@ieee.org
 
 # Collaboration,reviews and suggestions
 Please let me know if you have any suggestions or tips on improvements of the projects or just collaboration request by dropping me an email
-# New here to solve challenging problems
-![image](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) 
 # 🌐 Traveller
 
 # ![image](https://upload.wikimedia.org/wikipedia/commons/3/33/F1.svg) enthusiast
