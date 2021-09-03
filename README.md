@@ -1,8 +1,13 @@
 # 👋 Hi, I’m Berk!
-- 🏛I’m interested in software and it's applications on different fields
-# 👨‍💻 The programming languages I am programming with
+
+# Currently located @cittaditorino
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Turin_at_sunset.jpg/800px-Turin_at_sunset.jpg"/>
+
+#
+
+# 👨‍💻 The programming languages currently I am working with
 <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/96/000000/c-programming.png"/>
-# Operating systems I am working with
+# Operating systems I am acquainted
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -27,7 +32,7 @@ Please let me know if you have any suggestions or tips on improvements of the pr
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/340px-Apache_Maven_logo.svg.png)
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/320px-MongoDB_Logo.svg.png)
 
-
+#
 # ![image](https://upload.wikimedia.org/wikipedia/commons/3/33/F1.svg) enthusiast
 ![image](https://upload.wikimedia.org/wikipedia/en/d/df/Aston_Martin_F1.svg)
 <!---
