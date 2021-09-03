@@ -21,7 +21,7 @@ berkdelibalta@ieee.org
 Please let me know if you have any suggestions or tips on improvements of the projects or just collaboration request by dropping me an email
 # 🌐 Traveller
 
-# Currently learning and advancing
+# ⭐✌🏻 Currently learning and advancing
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/245px-Spring_Framework_Logo_2018.svg.png)
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/340px-Apache_Maven_logo.svg.png)
