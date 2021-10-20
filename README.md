@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Berk!
 
 # Currently located @cittaditorino
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Turin_at_sunset.jpg/800px-Turin_at_sunset.jpg"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Turin_monte_cappuccini.jpg/800px-Turin_monte_cappuccini.jpg"/>
 
 #
 
