@@ -25,11 +25,7 @@ berkdelibalta@ieee.org
 
 # 🌐 Traveller
 
-# ⭐✌🏻 Currently learning and advancing
-![image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/90px-Kubernetes_logo_without_workmark.svg.png)
-![image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/320px-Docker_%28container_engine%29_logo.svg.png)
 
-#
 # ![image](https://upload.wikimedia.org/wikipedia/commons/3/33/F1.svg) enthusiast
 ![image](https://upload.wikimedia.org/wikipedia/en/d/df/Aston_Martin_F1.svg)
 <!---
