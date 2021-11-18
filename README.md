@@ -1,15 +1,17 @@
 <html>
 <body>
-  <h1> 👋 Hi, I’m Berk!</h1>
+ 
+  >>  <h1> 👋  Hi, I’m Berk! </h1>
 
+  ---
 
-  <p1>Currently located @cittaditorino</p1>
+>>  <h2>Currently located @cittaditorino</h2>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Turin_monte_cappuccini.jpg/800px-Turin_monte_cappuccini.jpg"/>
 
 
 --- 
 
->> <p>👨‍💻 The technology tools I am working with </p>
+>>  <p>👨‍💻 The technology tools I am working with </p>
 
 
 >>![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -47,12 +49,12 @@
   >> [![name](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/berkdelibalta)
 
 ---
- >> 🌍 __Traveller__
+ >>  🌍 __Traveller__
 
 ---
 
-![image](https://upload.wikimedia.org/wikipedia/en/d/df/Aston_Martin_F1.svg)
-![image](https://upload.wikimedia.org/wikipedia/commons/3/33/F1.svg) __enthusiast__
+>> ![image](https://upload.wikimedia.org/wikipedia/en/d/df/Aston_Martin_F1.svg)
+>> ![image](https://upload.wikimedia.org/wikipedia/commons/3/33/F1.svg) __enthusiast__
 
 ---
 <!---
