@@ -1,11 +1,11 @@
-# 👋 Hi, I’m Berk!
+## 👋 Hi, I’m Berk!
 
 # Currently located @cittaditorino
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Turin_monte_cappuccini.jpg/800px-Turin_monte_cappuccini.jpg"/>
 
 #
 
-# 👨‍💻 The technology tools I am working with
+## 👨‍💻 The technology tools I am working with
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -30,13 +30,13 @@
 
 # ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  berkdelibalta@ieee.org 
 
-# Connect on   [![name](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkdelibalta/) [![name](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BerkDelibalta) [![name](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/berkdelibalta)
+## Connect on   [![name](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkdelibalta/) [![name](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BerkDelibalta) [![name](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/berkdelibalta)
 
 
-# 🌍 Traveller
+## 🌍 Traveller
 
 
-# ![image](https://upload.wikimedia.org/wikipedia/commons/3/33/F1.svg) enthusiast
+## ![image](https://upload.wikimedia.org/wikipedia/commons/3/33/F1.svg) enthusiast
 ![image](https://upload.wikimedia.org/wikipedia/en/d/df/Aston_Martin_F1.svg)
 <!---
 BerkDelibalta/BerkDelibalta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
