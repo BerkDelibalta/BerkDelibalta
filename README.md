@@ -11,7 +11,7 @@
 
 --- 
 
->>  <p>👨‍💻 The technology tools I am working with </p>
+>>   👨‍💻 __The technology tools I am working with__
 
 
 >>![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
