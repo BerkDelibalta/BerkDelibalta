@@ -1,12 +1,18 @@
-## 👋 Hi, I’m Berk!
+<html>
+<body>
+  <h1> 👋 Hi, I’m Berk!</h1>
 
-# Currently located @cittaditorino
+
+  <p1>Currently located @cittaditorino</p1>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Turin_monte_cappuccini.jpg/800px-Turin_monte_cappuccini.jpg"/>
 
-#
 
-## 👨‍💻 The technology tools I am working with
-![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+--- 
+
+>> <p>👨‍💻 The technology tools I am working with </p>
+
+
+>>![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -26,19 +32,33 @@
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-# 
-
-# ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  berkdelibalta@ieee.org 
-
-## Connect on   [![name](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkdelibalta/) [![name](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BerkDelibalta) [![name](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/berkdelibalta)
+---
 
 
-## 🌍 Traveller
+>> ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  <p> berkdelibalta@ieee.org </p>
 
+---
+  
+  > *  __Connect on__    
+  >> [![name](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkdelibalta/)
+ 
+  >> [![name](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BerkDelibalta) 
 
-## ![image](https://upload.wikimedia.org/wikipedia/commons/3/33/F1.svg) enthusiast
+  >> [![name](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/berkdelibalta)
+
+---
+ >> 🌍 __Traveller__
+
+---
+
 ![image](https://upload.wikimedia.org/wikipedia/en/d/df/Aston_Martin_F1.svg)
+![image](https://upload.wikimedia.org/wikipedia/commons/3/33/F1.svg) __enthusiast__
+
+---
 <!---
 BerkDelibalta/BerkDelibalta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+  
+</body>
+</html>
