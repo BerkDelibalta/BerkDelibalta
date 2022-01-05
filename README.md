@@ -11,8 +11,7 @@
 
 --- 
 
->>   👨‍💻 __The technology tools I am working with__
-
+ >>   <h2>👨‍💻The technology tools I am working with</h2
 
 >>![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -37,7 +36,7 @@
 
 ---
   
-  > *  __Connect on__    
+ > *  <h2>Connect on</h2>    
   >> [![name](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkdelibalta/)
  
   >> [![name](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BerkDelibalta) 
@@ -45,18 +44,24 @@
   >> [![name](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/berkdelibalta)
 
 ---
- >>  🌍 __Traveller__
+ >>  <h2>🌍Traveller</h2>
 
 ---
 
->> ![image](https://upload.wikimedia.org/wikipedia/en/d/df/Aston_Martin_F1.svg)
->> ![image](https://upload.wikimedia.org/wikipedia/commons/3/33/F1.svg) __enthusiast__
+  <h2>Motorsports enthusiast</h2>  
+ 
+  ![image](https://upload.wikimedia.org/wikipedia/en/d/df/Aston_Martin_F1.svg)
+ 
 
 ---
 <!---
 BerkDelibalta/BerkDelibalta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-  
+
+ <h2>With all the mistakes, failures, success, ups and downs, all emotions</h2>
+ ![image](https://64.media.tumblr.com/ab3dc7056119f910eacecdc517971e85/3d4efcdcafd24e6a-c5/s500x750/70fa51a14000436d7b6d03163c72b6e0b6e5faa0.gifv) 
+
+ 
 </body>
 </html>
