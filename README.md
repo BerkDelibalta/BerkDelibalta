@@ -30,11 +30,6 @@
 ![image](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 ---
-
-
->> ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  <p><strong> berkdelibalta@ieee.org</strong> </p>
-
----
   
  > *  <h2>Connect on</h2>    
   >> [![name](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkdelibalta/)
