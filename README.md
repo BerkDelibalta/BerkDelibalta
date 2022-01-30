@@ -3,12 +3,6 @@
  
   >>  <h1> 👋  Hi, I’m Berk! </h1>
 
-  ---
-
->>  <h2>Currently located @cittaditorino</h2>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Turin_monte_cappuccini.jpg/800px-Turin_monte_cappuccini.jpg"/>
-
-
 --- 
 
  >>   <h2>👨‍💻The technology tools I am working with</h2
