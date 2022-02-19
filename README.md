@@ -1,7 +1,7 @@
 <html>
 <body>
  
-  >>  <h1> 👋  Hi, I’m Berk! </h1>
+  >>  <h1> Welcome </h1>
 
 --- 
 
