@@ -5,7 +5,7 @@
 
 --- 
 
- >>   <h2>👨‍💻The technology tools I am working with</h2
+ >>   <h2>👨‍💻The tools I am working with</h2
 
 >>![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
