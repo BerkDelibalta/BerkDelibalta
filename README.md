@@ -5,7 +5,7 @@
 
  <p/>
 <strong/>
-  I am a junior software & cloud engineer 🧑🏻‍💻 at Deloitte Consulting,I love to design and work on APIs and Cloud systems ☁️ . I spend most of my time on the projects that useful for me to grow personally as an engineer, and also helping those looking for an answer, a solution for their specific problem.
+  I am a junior software & cloud engineer 🧑🏻‍💻 at Deloitte Consulting,I love to design and work on APIs and Cloud systems ☁️ . I spend most of my time on the projects that are useful for me to grow as an engineer, and also helping those looking for an answer, a solution for their specific problem.
  
  
   I am a traveller ✈️🏴󠁧󠁢󠁥󠁮󠁧󠁿🇮🇹🇨🇭🇩🇪 that I always love going beyond the borders and discover the unknown , its always exciting and fun to see new places and meet with people! I call myself a lover too, since I love the way that things come along the way of growth and directs me to routes that I have never imaged nor thought before, I love my girlfriend ❤️ and yeah I love my life 😄 
