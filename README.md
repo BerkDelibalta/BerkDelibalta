@@ -10,7 +10,7 @@
  
   I am a traveller ✈️🏴󠁧󠁢󠁥󠁮󠁧󠁿🇮🇹🇨🇭🇩🇪 that I always love going beyond the borders and discover the unknown , its always exciting and fun to see new places and meet with people! I call myself a lover too, since I love the way that things come along the way of growth and directs me to routes that I have never imaged nor thought before, I love my girlfriend ❤️ and yeah I love my life 😄 
  
- <h2> The Technology I am using </h2>
+ <h2> My tech stack </h2>
  
  
 <h2> 
