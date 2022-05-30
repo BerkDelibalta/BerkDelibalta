@@ -40,6 +40,9 @@
    [![name](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkdelibalta/)
    
  
+ <h2> Music I listen now </h2>
+ 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31iauc34hgi4qjwu3xkhgjqs34xm&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31iauc34hgi4qjwu3xkhgjqs34xm&redirect=true)
  
 <!---
 BerkDelibalta/BerkDelibalta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
