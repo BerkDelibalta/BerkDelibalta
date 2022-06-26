@@ -5,10 +5,13 @@
 
  <p/>
 <strong/>
-  I am a junior software & cloud engineer 🧑🏻‍💻 at Deloitte Consulting,I love to design and work on APIs and Cloud systems ☁️ . I spend most of my time on the projects that are useful for me to grow as an engineer, and also helping those looking for an answer, a solution for their specific problem.
- 
- 
-  I am a traveller ✈️🏴󠁧󠁢󠁥󠁮󠁧󠁿🇮🇹🇨🇭🇩🇪 that I always love going beyond the borders and discover the unknown , its always exciting and fun to see new places and meet with people! I call myself a lover too, since I love the way that things come along the way of growth and directs me to routes that I have never imaged nor thought before, I love my girlfriend ❤️ and yeah I love my life 😄 
+ I am a junior software & cloud engineer, I started my professional career at IBM in October 2021 where I worked in Application modernisation team in Mountain view, CA. Afterwards my US adventure, I turned back to Italy in 2022 and started to work at Deloitte Digital's Marketing and Content team as an intern where I have completed an internship of 3 months as a junior software engineer. Currently, I am working as a cloud & software engineer at Deloitte Consulting's cloud engineering team where I am specialising in Cloud platforms and software integration.
+
+
+
+​
+
+I am a traveller ✈️🏴󠁧󠁢󠁥󠁮󠁧󠁿🇮🇹🇨🇭🇩🇪 that I always love going beyond the borders and discover the unknown , its always exciting and fun to see new places and meet with people! I call myself a lover too, since I love the way that things come along the way of growth and directs me to routes that I have never imaged nor thought before, and yeah I love my life 😄
  
  <h2> My tech stack </h2>
  
