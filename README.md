@@ -5,7 +5,7 @@
 
  <p/>
 <strong/>
- I am a software & cloud engineer, I started my professional career at IBM in October 2021 where I worked in Application modernisation team in Mountain view, CA. Afterwards my US adventure, I turned back to Italy in 2022 and started to work at Deloitte Digital's Marketing and Content team as an intern where I have completed an internship of 3 months as a junior software engineer. Currently, I am working as a cloud & software engineer at Deloitte Consulting's cloud engineering team where I am specialising in Cloud platforms and software integration.
+ I am a software & cloud engineer, I started my professional career at IBM in October 2021 where I worked in Application modernisation team in Mountain view, CA. Afterwards my US adventure, I turned back to Italy in 2022 and started to work at Deloitte Digital's Marketing and Content team as an intern where I have completed an internship of 3 months as a junior software engineer. Currently, I am working as a cloud & software engineer at Deloitte Consulting's cloud engineering team where I am specialising in Cloud and Serverless platforms.
 
 
 
